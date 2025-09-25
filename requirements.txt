@@ -1,0 +1,11 @@
+torch>=2.0.0
+torchaudio>=2.0.0
+transformers>=4.20.0
+numpy>=1.21.0
+librosa>=0.9.0
+scipy>=1.7.0
+matplotlib>=3.5.0
+tensorboard>=2.8.0
+datasets>=2.0.0
+soundfile>=0.12.0
+jiwer>=2.5.0
